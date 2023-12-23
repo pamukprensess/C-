@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\bin\Debug\arkaplan_renklendir.exe.config
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\bin\Debug\arkaplan_renklendir.exe
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\bin\Debug\arkaplan_renklendir.pdb
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\obj\Debug\arkaplan_renklendir.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\obj\Debug\arkaplan_renklendir.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\obj\Debug\arkaplan_renklendir.Form1.resources
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\obj\Debug\arkaplan_renklendir.Properties.Resources.resources
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\obj\Debug\arkaplan_renklendir.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\obj\Debug\arkaplan_renklendir.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\obj\Debug\arkaplan_renklendir.exe
+C:\Users\admin\Desktop\ntp_2023\arkaplan_renklendir\arkaplan_renklendir\obj\Debug\arkaplan_renklendir.pdb

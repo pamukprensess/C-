@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\bin\Debug\butonlu_hesapmak.exe.config
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\bin\Debug\butonlu_hesapmak.exe
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\bin\Debug\butonlu_hesapmak.pdb
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\obj\Debug\butonlu_hesapmak.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\obj\Debug\butonlu_hesapmak.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\obj\Debug\butonlu_hesapmak.Form1.resources
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\obj\Debug\butonlu_hesapmak.Properties.Resources.resources
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\obj\Debug\butonlu_hesapmak.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\obj\Debug\butonlu_hesapmak.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\obj\Debug\butonlu_hesapmak.exe
+C:\Users\admin\Desktop\ntp_2023\butonlu_hesapmak\butonlu_hesapmak\obj\Debug\butonlu_hesapmak.pdb

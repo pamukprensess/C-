@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\bin\Debug\butonolaylari.exe.config
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\bin\Debug\butonolaylari.exe
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\bin\Debug\butonolaylari.pdb
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\obj\Debug\butonolaylari.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\obj\Debug\butonolaylari.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\obj\Debug\butonolaylari.Form1.resources
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\obj\Debug\butonolaylari.Properties.Resources.resources
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\obj\Debug\butonolaylari.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\obj\Debug\butonolaylari.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\obj\Debug\butonolaylari.exe
+C:\Users\admin\Desktop\ntp_2023\butonolaylari\butonolaylari\obj\Debug\butonolaylari.pdb
