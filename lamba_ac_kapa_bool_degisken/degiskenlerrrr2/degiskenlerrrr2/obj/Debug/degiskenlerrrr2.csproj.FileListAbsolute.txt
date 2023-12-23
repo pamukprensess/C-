@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\bin\Debug\degiskenlerrrr2.exe.config
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\bin\Debug\degiskenlerrrr2.exe
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\bin\Debug\degiskenlerrrr2.pdb
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\obj\Debug\degiskenlerrrr2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\obj\Debug\degiskenlerrrr2.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\obj\Debug\degiskenlerrrr2.Form1.resources
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\obj\Debug\degiskenlerrrr2.Properties.Resources.resources
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\obj\Debug\degiskenlerrrr2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\obj\Debug\degiskenlerrrr2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\obj\Debug\degiskenlerrrr2.exe
+C:\Users\admin\Desktop\ntp_2023\degiskenlerrrr2\degiskenlerrrr2\obj\Debug\degiskenlerrrr2.pdb

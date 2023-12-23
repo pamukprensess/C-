@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\bin\Debug\listbox_manav.exe.config
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\bin\Debug\listbox_manav.exe
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\bin\Debug\listbox_manav.pdb
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\obj\Debug\listbox_manav.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\obj\Debug\listbox_manav.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\obj\Debug\listbox_manav.Form1.resources
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\obj\Debug\listbox_manav.Properties.Resources.resources
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\obj\Debug\listbox_manav.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\obj\Debug\listbox_manav.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\obj\Debug\listbox_manav.exe
+C:\Users\admin\Desktop\ntp_2023\listbox_manav\listbox_manav\obj\Debug\listbox_manav.pdb
