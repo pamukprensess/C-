@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\bin\Debug\hesapmak_radiobutonlu.exe.config
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\bin\Debug\hesapmak_radiobutonlu.exe
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\bin\Debug\hesapmak_radiobutonlu.pdb
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\obj\Debug\hesapmak_radiobutonlu.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\obj\Debug\hesapmak_radiobutonlu.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\obj\Debug\hesapmak_radiobutonlu.Form1.resources
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\obj\Debug\hesapmak_radiobutonlu.Properties.Resources.resources
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\obj\Debug\hesapmak_radiobutonlu.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\obj\Debug\hesapmak_radiobutonlu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\obj\Debug\hesapmak_radiobutonlu.exe
+C:\Users\admin\Desktop\ntp_2023\hesapmak_radiobutonlu\hesapmak_radiobutonlu\obj\Debug\hesapmak_radiobutonlu.pdb
